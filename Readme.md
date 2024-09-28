@@ -57,7 +57,7 @@ identity-reconciliation/
 │   └── index.ts
 ├── prisma/
 │   └── schema.prisma
-├── diagrams/
+├── diagram/
 │   └── system-design.png
 ├── .gitignore
 ├── package.json
