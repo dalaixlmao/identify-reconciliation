@@ -29,6 +29,7 @@ The system follows a layered architecture with the following components:
 2. **Service Layer**: Implements core business logic for contact identification and consolidation
 3. **Repository Layer**: Manages database operations
 4. **Database Layer**: Stores contact information using PostgreSQL
+5. **Figma Link of design**: ![System-Design](https://www.figma.com/board/zumY9DnxbQBsH9nwL9pRXW/Identity-Reconciliation?node-id=0-1&t=uGeuAEgA58XGkDy9-1)
 
 ## Folder Structure
 
